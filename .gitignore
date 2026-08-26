@@ -1,0 +1,29 @@
+# machine identity
+install-id
+gpu_cache.json
+
+# logs and caches
+logs/
+cache/
+
+# runtime state
+run/
+puppeteer/
+
+# heavy binaries
+natives/
+
+# agent session state
+agent/blobs/
+agent/cache/
+agent/extensions/
+agent/sessions/
+agent/terminal-sessions/
+agent/*.db
+agent/*.db-shm
+agent/*.db-wal
+agent/models.db*
+agent/settings.json.bak
+
+# node modules
+plugins/node_modules/
