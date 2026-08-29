@@ -1,10 +1,10 @@
 shellPath: C:\Program Files\Git\bin\bash.exe
-modelRoles: 
-  default: opencode-go/deepseek-v4-flash:high
+modelRoles:
+  default: opencode-go/glm-5.3-flash:high
   advisor: openai-codex/gpt-5.6-sol
 symbolPreset: unicode
-theme: 
+theme:
   dark: titanium
 setupVersion: 2
-composer: 
+composer:
   shape: box
