@@ -1,0 +1,8 @@
+providers:
+  empero:
+    baseUrl: https://free.empero.org/v1
+    api: openai-completions
+    apiKey: free
+    authHeader: true
+    discovery:
+      type: openai-models-list

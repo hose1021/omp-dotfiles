@@ -1,7 +1,6 @@
-shellPath: C:\Program Files\Git\bin\bash.exe
 modelRoles:
-  default: opencode-go/glm-5.3-flash:high
   advisor: openai-codex/gpt-5.6-sol
+  default: opencode-go/glm-5.3-flash:high
 symbolPreset: unicode
 theme:
   dark: titanium

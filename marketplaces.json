@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "marketplaces": [
+    {
+      "name": "claude-plugins-official",
+      "sourceType": "github",
+      "sourceUri": "anthropics/claude-plugins-official",
+      "catalogPath": "/Users/hose/.omp/plugins/cache/marketplaces/claude-plugins-official/marketplace.json",
+      "addedAt": "2026-08-24T10:42:35.500Z",
+      "updatedAt": "2026-08-29T23:43:27.564Z"
+    },
+    {
+      "name": "karpathy-skills",
+      "sourceType": "github",
+      "sourceUri": "multica-ai/andrej-karpathy-skills",
+      "catalogPath": "/Users/hose/.omp/plugins/cache/marketplaces/karpathy-skills/marketplace.json",
+      "addedAt": "2026-08-29T23:57:48.022Z",
+      "updatedAt": "2026-08-29T23:57:48.022Z"
+    },
+    {
+      "name": "ui-ux-pro-max-skill",
+      "sourceType": "github",
+      "sourceUri": "nextlevelbuilder/ui-ux-pro-max-skill",
+      "catalogPath": "/Users/hose/.omp/plugins/cache/marketplaces/ui-ux-pro-max-skill/marketplace.json",
+      "addedAt": "2026-08-30T00:00:33.330Z",
+      "updatedAt": "2026-08-30T00:00:33.330Z"
+    }
+  ]
+}
