@@ -2,7 +2,6 @@
   "name": "omp-plugins",
   "private": true,
   "dependencies": {
-    "@dietrichgebert/ponytail": "https://github.com/DietrichGebert/ponytail",
     "superpowers": "https://github.com/obra/superpowers"
   }
 }
