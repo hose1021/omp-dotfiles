@@ -27,3 +27,10 @@ agent/settings.json.bak
 
 # node modules
 plugins/node_modules/
+# OS junk and runtime locks
+.DS_Store
+*.lock
+
+# Python bytecode
+__pycache__/
+*.pyc

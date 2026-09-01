@@ -7,7 +7,7 @@
       "sourceUri": "anthropics/claude-plugins-official",
       "catalogPath": "/Users/hose/.omp/plugins/cache/marketplaces/claude-plugins-official/marketplace.json",
       "addedAt": "2026-08-24T10:42:35.500Z",
-      "updatedAt": "2026-08-29T23:43:27.564Z"
+      "updatedAt": "2026-09-01T00:33:34.257Z"
     },
     {
       "name": "karpathy-skills",
@@ -15,7 +15,7 @@
       "sourceUri": "multica-ai/andrej-karpathy-skills",
       "catalogPath": "/Users/hose/.omp/plugins/cache/marketplaces/karpathy-skills/marketplace.json",
       "addedAt": "2026-08-29T23:57:48.022Z",
-      "updatedAt": "2026-08-29T23:57:48.022Z"
+      "updatedAt": "2026-09-01T00:33:35.305Z"
     },
     {
       "name": "ui-ux-pro-max-skill",
@@ -23,7 +23,15 @@
       "sourceUri": "nextlevelbuilder/ui-ux-pro-max-skill",
       "catalogPath": "/Users/hose/.omp/plugins/cache/marketplaces/ui-ux-pro-max-skill/marketplace.json",
       "addedAt": "2026-08-30T00:00:33.330Z",
-      "updatedAt": "2026-08-30T00:00:33.330Z"
+      "updatedAt": "2026-09-01T00:33:39.431Z"
+    },
+    {
+      "name": "omc",
+      "sourceType": "git",
+      "sourceUri": "https://github.com/Yeachan-Heo/oh-my-claudecode",
+      "catalogPath": "/Users/hose/.omp/plugins/cache/marketplaces/omc/marketplace.json",
+      "addedAt": "2026-08-30T14:57:51.926Z",
+      "updatedAt": "2026-09-01T00:33:47.300Z"
     }
   ]
 }

@@ -1,6 +1,6 @@
 modelRoles:
   advisor: openai-codex/gpt-5.6-sol
-  default: opencode-go/glm-5.3-flash:high
+  default: opencode-go/deepseek-v4-flash:high
 symbolPreset: unicode
 theme:
   dark: titanium
