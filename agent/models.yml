@@ -6,3 +6,9 @@ providers:
     authHeader: true
     discovery:
       type: openai-models-list
+  tokenrouter:
+    baseUrl: https://api.tokenrouter.com/v1
+    api: openai-completions
+    authHeader: true
+    discovery:
+      type: openai-models-list
