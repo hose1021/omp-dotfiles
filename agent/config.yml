@@ -1,6 +1,5 @@
 modelRoles:
   advisor: openai-codex/gpt-5.6-sol
-  default: tokenrouter/z-ai/glm-5.3-free
 symbolPreset: unicode
 theme:
   dark: titanium
