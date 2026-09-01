@@ -14,6 +14,11 @@
       "version": "2.13.0",
       "enabledFeatures": null,
       "enabled": true
+    },
+    "@dietrichgebert/ponytail": {
+      "version": "4.9.0",
+      "enabledFeatures": null,
+      "enabled": true
     }
   },
   "settings": {}

@@ -5,11 +5,14 @@
     "": {
       "name": "omp-plugins",
       "dependencies": {
+        "@dietrichgebert/ponytail": "4.9.0",
         "superpowers": "https://github.com/obra/superpowers",
       },
     },
   },
   "packages": {
+    "@dietrichgebert/ponytail": ["@dietrichgebert/ponytail@4.9.0", "", {}, "sha512-OSdybtBZ3uDd5m/+zyz4h8/+BVBR9nGFhqTDmQkQb1v7k4Vfc1qql78naY64UjocdBPqR94htZEkKu2wpKTJaw=="],
+
     "superpowers": ["superpowers@github:obra/superpowers#b36e082", {}, "obra-superpowers-b36e082", "sha512-06fzocF7rvYuGOPTl0pDOnfl97MM1NlOwMu1WN31yaoZ799cUEPX9gjiYwY6NQQeEmnVaALg0d2qqQ7P1B5Y0g=="],
   }
 }
