@@ -5,11 +5,6 @@
       "enabledFeatures": null,
       "enabled": true
     },
-    "andrej-karpathy-skills": {
-      "version": "1.0.0",
-      "enabledFeatures": null,
-      "enabled": true
-    },
     "ui-ux-pro-max": {
       "version": "2.13.0",
       "enabledFeatures": null,
@@ -17,6 +12,16 @@
     },
     "@dietrichgebert/ponytail": {
       "version": "4.9.0",
+      "enabledFeatures": null,
+      "enabled": true
+    },
+    "andrej-karpathy-skills": {
+      "version": "1.0.0",
+      "enabledFeatures": null,
+      "enabled": true
+    },
+    "force": {
+      "version": "0.0.3",
       "enabledFeatures": null,
       "enabled": true
     }

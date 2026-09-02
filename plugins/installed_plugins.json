@@ -22,19 +22,28 @@
     "andrej-karpathy-skills@karpathy-skills": [
       {
         "scope": "user",
-        "installPath": "/Users/hose/.omp/plugins/cache/plugins/karpathy-skills___andrej-karpathy-skills___1.0.0",
+        "installPath": "C:\\Users\\Hose\\.omp\\plugins\\cache\\plugins\\karpathy-skills___andrej-karpathy-skills___1.0.0",
         "version": "1.0.0",
-        "installedAt": "2026-08-29T23:57:48.583Z",
-        "lastUpdated": "2026-08-29T23:57:48.583Z"
+        "installedAt": "2026-09-02T01:40:23.203Z",
+        "lastUpdated": "2026-09-02T01:40:23.203Z"
+      }
+    ],
+    "superpowers@superpowers-marketplace": [
+      {
+        "scope": "user",
+        "installPath": "C:\\Users\\Hose\\.omp\\plugins\\cache\\plugins\\superpowers-marketplace___superpowers___6.3.0",
+        "version": "6.3.0",
+        "installedAt": "2026-09-02T01:41:57.869Z",
+        "lastUpdated": "2026-09-02T01:41:57.869Z"
       }
     ],
     "ui-ux-pro-max@ui-ux-pro-max-skill": [
       {
         "scope": "user",
-        "installPath": "/Users/hose/.omp/plugins/cache/plugins/ui-ux-pro-max-skill___ui-ux-pro-max___2.13.0",
+        "installPath": "C:\\Users\\Hose\\.omp\\plugins\\cache\\plugins\\ui-ux-pro-max-skill___ui-ux-pro-max___2.13.0",
         "version": "2.13.0",
-        "installedAt": "2026-08-30T00:00:38.185Z",
-        "lastUpdated": "2026-08-30T00:00:38.185Z"
+        "installedAt": "2026-09-02T01:43:25.730Z",
+        "lastUpdated": "2026-09-02T01:43:25.730Z"
       }
     ]
   }
