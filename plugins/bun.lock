@@ -5,7 +5,7 @@
     "": {
       "name": "omp-plugins",
       "dependencies": {
-        "@dietrichgebert/ponytail": "4.9.0",
+        "@dietrichgebert/ponytail": "^4.9.0",
         "force": "^0.0.3",
         "superpowers": "https://github.com/obra/superpowers",
       },
