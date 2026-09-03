@@ -16,7 +16,6 @@ natives/
 # agent session state
 agent/blobs/
 agent/cache/
-agent/extensions/
 agent/sessions/
 agent/terminal-sessions/
 agent/*.db
