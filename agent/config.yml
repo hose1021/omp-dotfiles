@@ -33,12 +33,12 @@ enabledModels:
 tools:
   approvalMode: yolo
 memory:
-  backend: local
+  backend: "off"
 autolearn:
   enabled: true
   autoContinue: true
 contextPromotion:
-  enabled: true
+  enabled: false
 providers:
   webSearchOrder:
     - tinyfish
