@@ -1,0 +1,2 @@
+- User re-enabled TinyFish on 2026-09-05 after earlier removal: key lives in ~/.omp/agent/.env as TINYFISH_API_KEY, and ~/.omp/agent/config.yml sets providers.webSearchOrder: [tinyfish]. Prefers omp-native web_search provider over TinyFish MCP (mcp.json stays empty). Do not suggest MCP setup unless asked.
+- User removed TinyFish MCP integration from ~/.omp/agent/mcp.json and providers.webSearchOrder from config.yml on 2026-09-05; prefers no TinyFish web search. Do not re-add or suggest TinyFish unless explicitly requested.

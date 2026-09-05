@@ -1,0 +1,119 @@
+{
+  "version": "1.0.0",
+  "lastScanned": 1788468640948,
+  "projectRoot": "/Users/hose/.omp",
+  "techStack": {
+    "languages": [],
+    "frameworks": [],
+    "packageManager": null,
+    "runtime": null
+  },
+  "build": {
+    "buildCommand": null,
+    "testCommand": null,
+    "lintCommand": null,
+    "devCommand": null,
+    "scripts": {}
+  },
+  "conventions": {
+    "namingStyle": null,
+    "importStyle": null,
+    "testPattern": null,
+    "fileOrganization": null
+  },
+  "structure": {
+    "isMonorepo": false,
+    "workspaces": [],
+    "mainDirectories": [],
+    "gitBranches": {
+      "defaultBranch": "main",
+      "branchingStrategy": null
+    }
+  },
+  "customNotes": [],
+  "directoryMap": {
+    "agent": {
+      "path": "agent",
+      "purpose": null,
+      "fileCount": 15,
+      "lastAccessed": 1788468640943,
+      "keyFiles": [
+        "agent.db",
+        "agent.db-shm",
+        "agent.db-wal",
+        "config.yml",
+        "config.yml.lock"
+      ]
+    },
+    "cache": {
+      "path": "cache",
+      "purpose": null,
+      "fileCount": 6,
+      "lastAccessed": 1788468640943,
+      "keyFiles": [
+        "github-cache.db",
+        "github-cache.db-shm",
+        "github-cache.db-wal",
+        "legacy-pi-extension-cache.db",
+        "legacy-pi-extension-cache.db-shm"
+      ]
+    },
+    "logs": {
+      "path": "logs",
+      "purpose": null,
+      "fileCount": 132,
+      "lastAccessed": 1788468640943,
+      "keyFiles": [
+        "omp.2026-08-30.74115.log",
+        "omp.2026-08-31.74115.log",
+        "omp.2026-08-31.74377.log",
+        "omp.2026-09-01.10035.log",
+        "omp.2026-09-01.12111.log"
+      ]
+    },
+    "natives": {
+      "path": "natives",
+      "purpose": null,
+      "fileCount": 0,
+      "lastAccessed": 1788468640944,
+      "keyFiles": []
+    },
+    "plugins": {
+      "path": "plugins",
+      "purpose": null,
+      "fileCount": 4,
+      "lastAccessed": 1788468640944,
+      "keyFiles": [
+        "bun.lock",
+        "installed_plugins.json",
+        "omp-plugins.lock.json",
+        "package.json"
+      ]
+    },
+    "puppeteer": {
+      "path": "puppeteer",
+      "purpose": null,
+      "fileCount": 1,
+      "lastAccessed": 1788468640944,
+      "keyFiles": [
+        "package.json"
+      ]
+    },
+    "run": {
+      "path": "run",
+      "purpose": null,
+      "fileCount": 0,
+      "lastAccessed": 1788468640944,
+      "keyFiles": []
+    },
+    "plugins/node_modules": {
+      "path": "plugins/node_modules",
+      "purpose": "Dependencies",
+      "fileCount": 0,
+      "lastAccessed": 1788468640945,
+      "keyFiles": []
+    }
+  },
+  "hotPaths": [],
+  "userDirectives": []
+}
